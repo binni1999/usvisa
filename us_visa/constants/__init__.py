@@ -74,6 +74,6 @@ MODEL_PUSHER_S3_KEY = "model-registry"
 App related constant 
 """
 APP_HOST = "0.0.0.0"
-APP_PORT=8080
+APP_PORT=8000
 
 
